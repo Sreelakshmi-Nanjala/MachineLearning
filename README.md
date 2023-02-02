@@ -1,2 +1,2 @@
-# MachineLearnng
+# MachineLearning
 Machine learning projects
